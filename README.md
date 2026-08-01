@@ -39,7 +39,7 @@
 </table> -->
 
 
-<img src="assets/avatar-silhouette-binary.gif" width="170" align="right" />
+<img src="assets/avatar-silhouette-binary.gif"   height ="180"  width="170" align="right" />
 
 ## 👨‍💻 About Me
 
