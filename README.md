@@ -15,8 +15,9 @@
 
 <br/>
 
- 
-<td>
+<table>
+<tr>
+<td valign="middle" width="70%">
 
 ## 👨‍💻 About Me
 
@@ -29,9 +30,9 @@
 - 📫 Reach me at **kazinazmussakib36@gmail.com**
 
 </td>
-<td width="180" valign="middle" align="center">
+<td valign="middle" width="30%" align="center">
 
-<img src="assets/avatar-binary.gif" width="150"/>
+<img src="assets/avatar-binary.gif" width="150" />
 
 </td>
 </tr>
