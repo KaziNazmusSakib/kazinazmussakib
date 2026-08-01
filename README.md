@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/github/followers/kazinazmussakib?label=Followers&style=flat-square&color=3B82F6" alt="Followers" />
 </p>
 
-<a href="https://your-portfolio-url.com" target="_blank">
+<a href="https://responsiveportfoliousinghtmlcss.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-3B82F6?style=for-the-badge&logoColor=white" />
 </a>
 
