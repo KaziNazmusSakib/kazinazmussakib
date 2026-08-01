@@ -39,9 +39,9 @@
 </table> -->
 
 
-<img src="assets/avatar-silhouette-binary.gif"   height ="180"  width="170" align="right" />
-
 ## 👨‍💻 About Me
+
+<img src="assets/avatar-silhouette-binary.gif"     width="170" align="right" />
 
 - 🎓 Computer Science & Engineering Graduate
 - 💼 Full Stack Developer — React · Next.js · NestJS
