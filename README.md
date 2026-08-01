@@ -15,7 +15,7 @@
 
 <br/>
 
-<table width="200%">
+<table>
 <tr>
 <td valign="middle" width="70%">
 
