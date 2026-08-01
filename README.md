@@ -15,13 +15,7 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="160">
-
-<img src="assets/avatar-binary.gif" width="140"/>
-
-</td>
+ 
 <td>
 
 ## 👨‍💻 About Me
@@ -33,6 +27,15 @@
 - ❤️ Passionate about open source
 - 📍 Based in Bangladesh
 - 📫 Reach me at **kazinazmussakib36@gmail.com**
+
+</td>
+<td width="180" valign="middle" align="center">
+
+<img src="assets/avatar-binary.gif" width="150"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
