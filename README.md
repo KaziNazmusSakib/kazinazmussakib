@@ -15,6 +15,15 @@
 
 <br/>
 
+<table>
+<tr>
+<td width="160">
+
+<img src="assets/avatar-binary.gif" width="140"/>
+
+</td>
+<td>
+
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science & Engineering Graduate
