@@ -15,7 +15,7 @@
 
 <br/>
 
-<table>
+<!-- <table>
 <tr>
 <td valign="middle" width="70%">
 
@@ -36,9 +36,25 @@
 
 </td>
 </tr>
-</table>
+</table> -->
 
-<br/>
+
+<img src="assets/avatar-silhouette-binary.gif" width="170" align="right" />
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science & Engineering Graduate
+- 💼 Full Stack Developer — React · Next.js · NestJS
+- 🌱 Currently exploring AI, LLMs & Cloud (AWS, Docker)
+- 🚀 Building scalable web & mobile applications
+- ❤️ Passionate about open source
+- 📍 Based in Bangladesh
+- 📫 Reach me at [kazinazmussakib36@gmail.com](mailto:kazinazmussakib36@gmail.com)
+
+<br clear="right"/>
+
+
+ 
 
 ## 🛠️ Tech Stack
 
