@@ -32,7 +32,7 @@
 </td>
 <td valign="middle" width="30%" align="right">
 
-<img src="assets/avatar-binary.gif" width="150" />
+<img src="assets/avatar-silhouette-binary.gif" width="180" />
 
 </td>
 </tr>
