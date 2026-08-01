@@ -104,6 +104,28 @@ Agentic ERPNext-generation autonomous enterprise resource planning system powere
 
 <br/>
 
+
+## 🧩 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/KaziNazmusSakib/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.hackerrank.com/profile/kazinazmussakib1" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+<a href="https://codeforces.com/profile/nazmussakib36" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+<a href="https://www.codechef.com/users/nazmussakib23" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
 ## 💼 Experience
 
 ```text
