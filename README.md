@@ -94,7 +94,7 @@ Agentic ERPNext-generation autonomous enterprise resource planning system powere
 </tr>
 </table>
 
-> Replace the `#` links above and add screenshots under `assets/` (e.g. `assets/nexifystore.png`) — see the note at the bottom of this file for the exact markdown to drop in once you have images.
+
 
 <br/>
 
