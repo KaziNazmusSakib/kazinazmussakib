@@ -155,8 +155,7 @@ Agentic ERPNext-generation autonomous enterprise resource planning system powere
 <img src="https://raw.githubusercontent.com/kazinazmussakib/kazinazmussakib/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-> This image is generated automatically by the included GitHub Action (`.github/workflows/snake.yml`). It will render blank until that workflow runs once — see setup notes below.
-
+ 
 <br/>
 
 ## ⚡ Activity Graph
