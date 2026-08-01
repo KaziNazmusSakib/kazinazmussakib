@@ -13,11 +13,6 @@
   <img src="https://img.shields.io/github/followers/kazinazmussakib?label=Followers&style=flat-square&color=3B82F6" alt="Followers" />
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=kazinazmussakib&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/kazinazmussakib?label=Followers&style=flat-square&color=3B82F6" alt="Followers" />
-</p>
-
 <a href="https://your-portfolio-url.com" target="_blank">
   <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-3B82F6?style=for-the-badge&logoColor=white" />
 </a>
