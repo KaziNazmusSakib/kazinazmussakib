@@ -30,7 +30,7 @@
 - 📫 Reach me at **kazinazmussakib36@gmail.com**
 
 </td>
-<td valign="middle" width="30%" align="center">
+<td valign="middle" width="30%" align="right">
 
 <img src="assets/avatar-binary.gif" width="150" />
 
