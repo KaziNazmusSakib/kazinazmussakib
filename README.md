@@ -17,7 +17,7 @@
 
 <table>
 <tr>
-<td valign="middle" width="70%">
+<td valign="middle" width="90%">
 
 ## 👨‍💻 About Me
 
@@ -32,7 +32,7 @@
 </td>
 <td valign="middle" width="30%" align="right">
 
-<img src="assets/avatar-silhouette-binary.gif" width="180" />
+<img src="assets/avatar-silhouette-binary.gif" width="190" />
 
 </td>
 </tr>
