@@ -1,64 +1,153 @@
-<!-- <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Kazi Nazmus Sakib</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kazinazmussakib&label=Profile%20views&color=0e75b6&style=flat" alt="kazinazmussakib" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazinazmussakib&theme=" alt="kazinazmussakib" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:3B82F6&height=220&section=header&text=Kazi%20Nazmus%20Sakib&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20NestJS%20%C2%B7%20AI&descAlignY=58&descSize=18" width="100%"/>
 
-- 🔭 I’m currently working on [rock vs mine prediction](https://colab.research.google.com/drive/11A1SIk9yMO5n-DJbToGBMXSnQ4YkHCAV)
-- 🌱 I’m currently learning **python**
-- 💬 Ask me about **python , html , Javascript**
-- 📫 How to reach me **kazinazmussakib36@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/KaziNazmusSakib**
-- ⚡ Fun fact **I think I am funny**
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%2B+NestJS+Developer;React+Native+Developer;AI+%26+LLM+Enthusiast" alt="Typing SVG" />
 </a>
 
-<div> <a href="https://twitter.com/@nazmus53680kazi" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/kazi nazmus sakib" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/kazinazmussakib" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/kazinazmussakib123" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:kazinazmussakib36@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@nazmus53680kazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="@nazmus53680kazi" height="30" width="40" /></a><a href="https://linkedin.com/in/kazi nazmus sakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="kazi nazmus sakib" height="30" width="40" /></a><a href="https://fb.com/kazi nazmus sakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="kazi nazmus sakib" height="30" width="40" /></a><a href="https://www.hackerrank.com/kazi nazmus sakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="kazi nazmus sakib" height="30" width="40" /></a><a href="https://kaggle.com/nazmus sakib999" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="nazmus sakib999" height="30" width="40" /></a><a href="https://instagram.com/kazinazmussakib123" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="kazinazmussakib123" height="30" width="40" /></a><a href="https://www.codechef.com/users/nazmussakib23" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="nazmussakib23" height="30" width="40" /></a></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/dot-net-original-wordmark.svg" alt="Dot Net" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kazinazmussakib&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/kazinazmussakib?label=Followers&style=flat-square&color=3B82F6" alt="Followers" />
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazinazmussakib&layout=compact&theme=gruvbox" alt=kazinazmussakib />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kazinazmussakib&show_icons=true&locale=en&theme=highcontrast" alt="kazinazmussakib" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kazinazmussakib&theme=transparent" alt="kazinazmussakib" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/kazinazmussakib">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kazinazmussakib&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kazinazmussakib&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kazinazmussakib&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kazinazmussakib&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kazinazmussakib&theme=2077" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kazinazmussakib&theme=react-dark"/>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /> -->
+<br/>
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science & Engineering Graduate
+- 💼 Full Stack Developer — React · Next.js · NestJS
+- 🌱 Currently exploring AI, LLMs & Cloud (AWS, Docker)
+- 🚀 Building scalable web & mobile applications
+- ❤️ Passionate about open source
+- 📍 Based in Bangladesh
+- 📫 Reach me at **kazinazmussakib36@gmail.com**
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,java,csharp" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,oracle" />
+
+**Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vercel" />
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%">
+
+### 🛒 NexifyStore
+**Full Stack E-Commerce Platform**
+
+Modern storefront with payments, order management, and a REST API backend.
+
+`Next.js` `NestJS` `PostgreSQL` `Stripe` `REST API`
+
+<!-- [🔗 Live Demo](#) ·  -->
+
+[💻 GitHub](https://github.com/KaziNazmusSakib/NexifyStore-APWB-Frontend)
+
+</td>
+<td width="33%">
+
+### 🏨 RoomIQ
+**Hotel Management System**
+
+Developed a full-stack hotel management system with a PHP-based backend and JavaScript frontend, following
+clean and modular architecture.Designed and managed relational database schemas using XAMPP and phpMyAdmin for efficient data handling.
+
+`Php` `JavaScript` `XMAPP` `PhpMyAdmin`
+
+[💻 GitHub](https://github.com/KaziNazmusSakib/Hotel_Management_System)
+
+</td>
+<td width="33%">
+
+### 🤖 CogniSuite
+**Agentic ERP**
+
+Agentic ERPNext-generation autonomous enterprise resource planning system powered by multi-agent AI networks to automate operations, finances, and supply chains.
+
+`Python` `LangGraph` `FastAPI` `PostgreSQL` `AI Agents`
+
+[💻 GitHub](https://github.com/KaziNazmusSakib/agentic_erp)
+
+
+</td>
+</tr>
+</table>
+
+> Replace the `#` links above and add screenshots under `assets/` (e.g. `assets/nexifystore.png`) — see the note at the bottom of this file for the exact markdown to drop in once you have images.
+
+<br/>
+
+## 💼 Experience
+
+```text
+2026 — Full Stack Developer Intern, OITS Dhaka Ltd.
+        Next.js · React · NestJS · Sanity CMS · REST API
+```
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kazinazmussakib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kazinazmussakib&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazinazmussakib&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/kazinazmussakib/kazinazmussakib/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+> This image is generated automatically by the included GitHub Action (`.github/workflows/snake.yml`). It will render blank until that workflow runs once — see setup notes below.
+
+<br/>
+
+## ⚡ Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kazinazmussakib&theme=tokyo-night&hide_border=true" />
+</div>
+
+<br/>
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/kazi-nazmus-sakib" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/kazinazmussakib" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://twitter.com/nazmus53680kazi" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="mailto:kazinazmussakib36@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0F2027&height=100&section=footer" width="100%"/>
+
