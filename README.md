@@ -51,7 +51,7 @@
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### 🛒 NexifyStore
 **Full Stack E-Commerce Platform**
@@ -65,7 +65,7 @@ Modern storefront with payments, order management, and a REST API backend.
 [💻 GitHub](https://github.com/KaziNazmusSakib/NexifyStore-APWB-Frontend)
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### 🏨 RoomIQ
 **Hotel Management System**
@@ -78,7 +78,7 @@ clean and modular architecture.Designed and managed relational database schemas 
 [💻 GitHub](https://github.com/KaziNazmusSakib/Hotel_Management_System)
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
 ### 🤖 CogniSuite
 **Agentic ERP**
