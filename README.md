@@ -15,9 +15,9 @@
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
-<td valign="middle" width="90%">
+<td valign="middle" width="70%">
 
 ## 👨‍💻 About Me
 
@@ -27,12 +27,12 @@
 - 🚀 Building scalable web & mobile applications
 - ❤️ Passionate about open source
 - 📍 Based in Bangladesh
-- 📫 Reach me at **kazinazmussakib36@gmail.com**
+- 📫 Reach me at [kazinazmussakib36@gmail.com](mailto:kazinazmussakib36@gmail.com)
 
 </td>
 <td valign="middle" width="30%" align="right">
 
-<img src="assets/avatar-silhouette-binary.gif" width="190" />
+<img src="assets/avatar-silhouette-binary.gif" width="170" />
 
 </td>
 </tr>
