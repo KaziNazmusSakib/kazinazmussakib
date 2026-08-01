@@ -1,5 +1,7 @@
 <div align="center">
 
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:3B82F6&height=280&section=header&text=Kazi%20Nazmus%20Sakib&fontSize=42&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20React%20%C2%B7%20Next.js%20%C2%B7%20NestJS%20%C2%B7%20AI&descAlignY=65&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
@@ -10,6 +12,15 @@
   <img src="https://komarev.com/ghpvc/?username=kazinazmussakib&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/kazinazmussakib?label=Followers&style=flat-square&color=3B82F6" alt="Followers" />
 </p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kazinazmussakib&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/kazinazmussakib?label=Followers&style=flat-square&color=3B82F6" alt="Followers" />
+</p>
+
+<a href="https://your-portfolio-url.com" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-3B82F6?style=for-the-badge&logoColor=white" />
+</a>
 
 </div>
 
